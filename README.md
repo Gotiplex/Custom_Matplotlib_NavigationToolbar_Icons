@@ -6,7 +6,7 @@
 ## Installation
 Clone the repository and use the toolbar in your Matplotlib + Tkinter applications:
 
-git clone https://github.com/your-username/custom-matplotlib-toolbar.git
+git clone https://github.com/Gotiplex/Custom_Matplotlib_NavigationToolbar_Icons
 
 ## Usage
 Simply integrate the CustomToolBar class into your Tkinter-based Matplotlib application:
