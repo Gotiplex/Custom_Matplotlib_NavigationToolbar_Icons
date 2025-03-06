@@ -1,6 +1,6 @@
 # Custom Matplotlib Toolbar
 
-A custom Matplotlib toolbar for Tkinter, allowing users to change icons and customize their experience. This toolbar extends NavigationToolbar2 and provides improved UI flexibility, including resizable icons and custom tooltips.
+A custom Matplotlib toolbar for Tkinter, allowing users to change icons.
 
 ## Features
 🖼️ Custom Icons: Replace default Matplotlib icons with your own PNG images.
