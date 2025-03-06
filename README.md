@@ -13,7 +13,8 @@ git clone https://github.com/Gotiplex/Custom_Matplotlib_NavigationToolbar_Icons
 ## Usage
 Simply integrate the CustomToolBar class into your Tkinter-based Matplotlib application:
 
-from toolbarClass import CustomToolBar
+from CustomToolBarLib.toolbarClass import CustomToolBar
+
 toolbar = CustomToolBar(canvas, window)
 
 ## License
